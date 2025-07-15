@@ -28,7 +28,6 @@ C++ GUI udviklet med wxWidgets muliggør manuel og automatisk styring af robot o
 - C++ code/ – GUI og backend til UR5, inkl. `panel.cpp`, `main.cpp`, makefile  
 - Assembly code/ – Assemblyprogram til ATmega644 for styring af motor og respons  
 - 644Board-Schematic.PDF – Diagram over kredsløb og kommunikationsinterface  
-- Gripper_peter_done.iam – 3D CAD-fil (Inventor) af griberen  
 - Demo video – [Se demo på YouTube](https://www.youtube.com/watch?v=OvQ3HG4hXTY)
 
 ---
